@@ -1,2 +1,3 @@
-# EEEtoIT-Journey_day5
-My transition from Electrical Engineering to a Product-Based IT Developer using Java, DSA, and Projects.
+## ✅ Day 5:
+- [CountVowels.java](./CountVowels.java): Counts vowels and consonants in a sentence
+- [SelectionSort.java](./SelectionSort.java): Sorts array using Selection Sort algorithm
